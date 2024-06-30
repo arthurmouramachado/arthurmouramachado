@@ -1,7 +1,6 @@
 ### Olá eu sou o Arthur  e tenho uma meta de me tornar programador
 
-👨‍🎓 atualmente estou na escola, mas estudando programação todos os dias 
-😄 Pronomes:Ele/Dele
+👨‍🎓 atualmente estou na faculdade de Análise de Sistemas
 
 <div align="center">
   <a href="https://github.com/arthurmouramachado">
