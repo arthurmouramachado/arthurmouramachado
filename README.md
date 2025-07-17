@@ -1,4 +1,4 @@
-### Olá eu sou o Arthur Moura Machado
+### Hello, I'm Arthur Moura Machado
 
 👨‍🎓 atualmente estou na faculdade de Análise e Desenvolvimento de Sistemas
   
