@@ -1,6 +1,6 @@
 ### Hello, I'm Arthur Moura Machado
 
-👨‍🎓 atualmente estou na faculdade de Análise e Desenvolvimento de Sistemas
+👨‍🎓 I am currently in the Faculty of Systems Analysis and Development
   
 <div align="center">
   <a href="https://github.com/arthurmouramachado">
