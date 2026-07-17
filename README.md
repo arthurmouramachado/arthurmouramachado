@@ -3,8 +3,12 @@
 👨‍🎓 I am currently in the Faculty of Systems Analysis and Development
   
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmouramachado&show_icons=true&theme=dracula)](https://github.com/stats-organization/github-stats-extended"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmouramachado&layout=compact&theme=dracula)](https://github.com/stats-organization/github-stats-extended"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=arthurmouramachado&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurmouramachado&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
 </div>
     
 <div style="display: inline-block"><br>
